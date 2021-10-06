@@ -1,3 +1,3 @@
 * README
 
-This is a little description.
+This is a little description!
